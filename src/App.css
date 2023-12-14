@@ -18,3 +18,8 @@ html, body {
 .welcome {
     text-align: center;
 }
+
+.logo {
+  width: 30px;
+  height: 30px;
+}
