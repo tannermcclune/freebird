@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="welcome">
       <img src={logo} className="logo" alt="logo" />
-      <p>McClune World</p>
+      <p>mcclune.world</p>
     </div>
 
   );
