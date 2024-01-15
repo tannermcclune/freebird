@@ -8,8 +8,9 @@ function App() {
   return (
     <div className="welcome">
       <img src={logo} className="logo" alt="logo" />
-      <CountdownTimer targetDate="2024-2-21" />
+      <p>McClune World</p>
     </div>
+
   );
 }
 
